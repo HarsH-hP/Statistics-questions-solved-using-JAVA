@@ -23,7 +23,6 @@ public class Solution {
         }
         mean=(float)mean/N;
         DecimalFormat df=new DecimalFormat("0.0");
-        //mean=(float)df.format(mean);
         float sd=0;
         for(int i=0;i<N;i++){
             sd=sd+((X[i]-mean)*(X[i]-mean));
