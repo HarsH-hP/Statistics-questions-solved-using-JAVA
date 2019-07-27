@@ -13,10 +13,9 @@ public class Solution {
         }
         return(sum);
     }
-
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        
+    
+    public static void main(String[] args) {       
+      
         double preject=0.12;
         double pnot=1-preject;
         double combi=0,sum=0,nextsum=0;
