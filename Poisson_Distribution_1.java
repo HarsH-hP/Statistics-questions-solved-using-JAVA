@@ -15,7 +15,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         double e=2.71828;
         double m=2.5;
         double ans=(Math.pow(e,-m)*Math.pow(m,5))/fact(5);
