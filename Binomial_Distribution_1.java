@@ -15,7 +15,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        
+       //Main method 
         Scanner sc=new Scanner(System.in);
         double boy=sc.nextDouble();
         double girl=sc.nextDouble();
