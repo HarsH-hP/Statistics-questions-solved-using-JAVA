@@ -7,7 +7,7 @@ import java.util.regex.*;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       
         double meanA=0.88;
         double meanB=1.55;
         double costX=160+(40*(meanA+Math.pow(meanA,2)));
